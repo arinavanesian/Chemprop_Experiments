@@ -1,0 +1,19 @@
+# === Python Cache ===
+__pycache__/
+*.py[cod]
+
+# === Virtual Environments & vscode ===
+**/.vscode/
+
+.venv/
+venv/
+env/
+
+# === Jupyter Notebook  ===
+.ipynb_checkpoints/
+
+# === Configuration ===
+config.json
+config.ini
+config.yaml
+.env
